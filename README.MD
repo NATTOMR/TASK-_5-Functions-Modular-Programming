@@ -24,9 +24,9 @@ It is designed to show how a program can be broken into reusable, well-structure
 ## 📂 Project Structure
 TASK-_5-Functions-Modular-Programming/
 │
-├── main.py # Main program execution
-├── functions.py # Contains all function definitions
-├── README.md # Project documentation
+├── main.py     # Main program execution
+├── functions.py   # Contains all function definitions
+├── README.md    # Project documentation
 
 
 🧪 Example Functions
