@@ -31,23 +31,23 @@ TASK-_5-Functions-Modular-Programming/
 
 🧪 Example Functions
 
-Addition
+- Addition
 
-Subtraction
+- Subtraction
 
-Multiplication
+- Multiplication
 
-Division
+- Division
 
 🎯 Learning Objectives
 
-Understand function creation and usage
+- Understand function creation and usage
 
-Apply modular programming principles
+- Apply modular programming principles
 
-Improve code readability and reusability
+- Improve code readability and reusability
 
-Practice GitHub version control
+- Practice GitHub version control
 
 👤 Author
 
